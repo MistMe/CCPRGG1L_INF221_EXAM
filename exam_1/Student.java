@@ -17,7 +17,7 @@ public class Student {
     }
 
     public void AmIAwesome() {
-        System.out.println("Am I Awesome:" + iamawesome);
+        System.out.println("I am Awesome:" + iamawesome);
     }
 
 }
